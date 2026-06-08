@@ -1,0 +1,10 @@
+pandas>=1.4.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+tensorflow>=2.10.0
+nltk>=3.7
+gensim>=4.2.0
+mysql-connector-python>=8.0.0
+pymysql>=1.0.0
+python-dateutil>=2.8.0
+faker>=13.0.0
